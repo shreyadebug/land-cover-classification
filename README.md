@@ -59,8 +59,8 @@ Developed as part of **CE672: Machine Processing of Remotely Sensed Data** at *I
 ### Training Data
 ![Training Data](images/train_data.png)
 
-### Testing Data
-![Testing Data](images/test_data.png)
+### Label Data Visualization
+![Label Data](image/label.png)
 
 ---
 
