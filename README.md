@@ -56,8 +56,8 @@ Developed as part of **CE672: Machine Processing of Remotely Sensed Data** at *I
 - **Sensor**: Sentinel-2 Level-1C imagery  
 - **Classes**: Water, Trees, Grass, Urban, Cropland, Snow/Ice, Shrub/Scrub, Bare Ground, Flooded Vegetation
 
-### Training Data
-![Training Data](images/train_data.png)
+### Satellite Image Data
+![Training Data](image/satellite_img.png)
 
 ### Label Data Visualization
 ![Label Data](image/label.png)
