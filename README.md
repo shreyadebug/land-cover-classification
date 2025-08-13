@@ -70,6 +70,12 @@ Developed as part of **CE672: Machine Processing of Remotely Sensed Data** at *I
 - **Kappa Coefficient**: 0.7096–0.7969  
 - **Overall Accuracy**: 0.7242–0.9025  
 
+### EDA
+![Training Data](image/one.png)
+
+### Results on Gradio Interface
+![Label Data](image/two.png)
+
 ---
 
 ## Limitations
