@@ -23,7 +23,9 @@ Developed as part of **CE672: Machine Processing of Remotely Sensed Data** at *I
 - **Export results** to Excel and HTML.
 - **Visualization** of classification maps and confusion matrices.
 - **Exploratory Data Analysis** (EDA) on sampled pixels.
-
+- 
+### Interface
+![Label Data](image/gradio.png)
 ---
 
 ## Methodology
